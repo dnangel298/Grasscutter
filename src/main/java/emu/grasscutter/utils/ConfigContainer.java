@@ -28,7 +28,7 @@ public class ConfigContainer {
         try { // Check if the server is using a legacy config.
             JsonObject configObject = Grasscutter.getGsonFactory()
                     .fromJson(new FileReader(Grasscutter.configFile), JsonObject.class);
-            if(!configObject.has("version")) {
+            if (!configObject.has("version")) {
                 Grasscutter.getLogger().info("Updating legacy ..");
                 Grasscutter.saveConfig(null);
             }
@@ -37,7 +37,7 @@ public class ConfigContainer {
         var existing = config.version;
         var latest = version();
 
-        if(existing == latest)
+        if (existing == latest)
             return;
 
         // Create a new configuration instance.

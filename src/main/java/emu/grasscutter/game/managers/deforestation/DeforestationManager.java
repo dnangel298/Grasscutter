@@ -36,16 +36,16 @@ public class DeforestationManager {
         ColliderTypeToWoodItemID.put(11,101311);
         ColliderTypeToWoodItemID.put(12,101312);
     }
-    public DeforestationManager(Player player){
+    public DeforestationManager(Player player) {
         this.player = player;
         this.currentRecord = new ArrayList<>();
     }
-    public void resetWood(){
+    public void resetWood() {
         synchronized (currentRecord) {
             currentRecord.clear();
         }
     }
-    public void onDeforestationInvoke(HitTreeNotifyOuterClass.HitTreeNotify hit){
+    public void onDeforestationInvoke(HitTreeNotifyOuterClass.HitTreeNotify hit) {
         synchronized (currentRecord) {
             //Grasscutter.getLogger().info("onDeforestationInvoke! Wood records {}", currentRecord);
             VectorOuterClass.Vector hitPosition = hit.getTreePos();
@@ -57,14 +57,14 @@ public class DeforestationManager {
                 HitTreeRecord record = searchRecord(positionHash);
                 if (record == null) {
                     record = new HitTreeRecord(positionHash);
-                }else{
+                }else {
                     currentRecord.remove(record);// move it to last position
                 }
                 currentRecord.add(record);
-                if(currentRecord.size()>RECORD_MAX_TIMES_OTHER_HIT_TREE){
+                if (currentRecord.size()>RECORD_MAX_TIMES_OTHER_HIT_TREE) {
                     currentRecord.remove(0);
                 }
-                if(record.record()) {
+                if (record.record()) {
                     EntityItem entity = new EntityItem(scene,
                             null,
                             GameData.getItemDataMap().get(itemId),
@@ -80,7 +80,7 @@ public class DeforestationManager {
         }
         // unknown wood type
     }
-    private HitTreeRecord searchRecord(int id){
+    private HitTreeRecord searchRecord(int id) {
         for (HitTreeRecord record : currentRecord) {
             if (record.getUnique() == id) {
                 return record;
